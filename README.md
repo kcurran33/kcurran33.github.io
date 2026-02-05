@@ -1,4 +1,5 @@
 # kcurran33.github.io
-Why are you here?
+
+Stop looking at my shitty HTML code...
 
 Currently Under Construction
