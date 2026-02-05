@@ -1,3 +1,6 @@
+header {
+  font-fmaily: OCR A Std, monospace;
+}
 .nav {
   display: flex;
   gap: 16px;
@@ -20,4 +23,7 @@
 .nav-link:focus-visible {
   outline: 2px solid #111;   /* keyboard accessibility */
   outline-offset: 2px;
+}
+body {
+ font-fmaily: OCR A Std, monospace;
 }
