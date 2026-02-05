@@ -1,5 +1,5 @@
 header {
-  font-fmaily: OCR A Std, monospace;
+  font-family: OCR A Std, monospace;
 }
 .nav {
   display: flex;
@@ -25,5 +25,5 @@ header {
   outline-offset: 2px;
 }
 body {
- font-fmaily: OCR A Std, monospace;
+ font-family: OCR A Std, monospace;
 }
