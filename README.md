@@ -1,5 +1,5 @@
 # kcurran33.github.io
 
-Stop looking at my shitty HTML code...
+Thought it might be fun to do it from scratch
 
 Currently Under Construction
